@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JAPÃO</title>
+    </head>
+
+    <style>
+
+        body{
+            background-color: grey;
+        }
+
+        h1{
+            color: white;
+        }
+
+        h3{
+            color: white;
+        }
+    
+    </style>
+<body>
+    
+    <div id="topo">
+
+        <img src="https://cdn.icon-icons.com/icons2/230/PNG/256/Japan_JP_JPN_392_Flag1_26102.png" width="80px" 
+
+
+        <p><h1>JAPÃO</h1></p>
+
+    <H3>CULTURA</H3>
+        </div>
+
+        <div id="conteudo"
+
+    <div style="margin-left: 50px;"></div>
+
+    A cultura japonesa é rica e diversa, mesclando tradições antigas com elementos modernos.
+    Algo bastante marcante do Japão é suas construções, desde de templos budista e santuários até arranha-céus ultramodernos.
+    A arquitetura japonesa reflete uma mistura de estilos tradicionais e contemporâneos. Apesar de ser altamente urbanizado, o país possui uma paisagem deslumbrante, incluindo montanhas, floresta, praias e até mesmo fonte termais (onsens),que são apreciados em todo o país.
+    <p>A cultura popular no Japão é uma mistura de tradição e modernidade que cativa pessoas ao redor do mundo. Desde os coloridos festivais como o Hanami (observação das flores de cerejeira) e o Matsuri (festivais locais), até a cultura pop, como anime,mangá e videos games. O Japão é líder mundial em tecnologia e inovação,com contribuições significativas nas áreas como eletrônicos, automóveis, robótica e videogames.</p>
+    <p>O principal motivo por qual eu admiro o país e tenho vontade de visitar é sua cultura automotiva. É como se fosse o paraíso para quem é apaixonado por carros. O país tem montadoras mundialmente conhecidas, como  a Toyota, Honda, Subaru e Nissan. A cultura automotiva se estende aos entusitas de carro modificado visualmente,como estilo BOSOZOKU que é conhecido por suas modificações exageradas e extravagantes,spoilers gigantes e adesivos/pinturas chamativos, até o pessoal que curte corridas de rua, que modificam o motor de seu veículo para ganhar mais pôtencia e trocam as peças originais por outros modelos, como a suspenção de corrida e os pneus semi slick. Em resumo, a cultura automotiva japonesa é uma combinação perfeita de tradição, tecnologia, paixão e estilo. </p>
+    
+    <h3>IMAGENS</h3>
+
+    <img src="https://cdn.getyourguide.com/img/tour/2f9b73c7549340b2.jpeg/145.jpg"
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mount_Fuji_from_Lake_Shoji_%2815443819010%29.jpg/640px-Mount_Fuji_from_Lake_Shoji_%2815443819010%29.jpg"</p>
+    <p><img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/76/e5/8a/caption.jpg?w=500&h=400&s=1"</p>
+
+    </div>
+
+    <h5>REFERÊNCIAS</h5>
+    <a href="https://jornalcidadaniapopular.com.br/a-historia-da-cultura-pop-japonesa/#:~:text=A%20cultura%20pop%20japonesa%20%C3%A9,de%20cartum%2C%20charge%20e%20caricatura.">https://jornalcidadaniapopular.com.br/a-historia-da-cultura-pop-japonesa/#:~:text=A%20cultura%20pop%20japonesa%20%C3%A9,de%20cartum%2C%20charge%20e%20caricatura.</a>
+    <P><a href="https://toptuningbr.com.br/tuning-de-carros-no-japao-o-paraiso-dos-apaixonados-por-automoveis/#:~:text=As%20montadoras%20japonesas%2C%20como%20Toyota,entusiastas%20e%20profissionais%20da%20%C3%A1rea.">https://toptuningbr.com.br/tuning-de-carros-no-japao-o-paraiso-dos-apaixonados-por-automoveis/#:~:text=As%20montadoras%20japonesas%2C%20como%20Toyota,entusiastas%20e%20profissionais%20da%20%C3%A1rea.</a></p>
+
+
+    <P><a href="#topo">VOLTAR AO TOPO</a></P>
+
+    <UL>
+        <li><a href="file:///C:/Users/LENOVO/Downloads/html/menu.html">MENU</a></li>
+    </UL>
+    
+</body>
+</html>
